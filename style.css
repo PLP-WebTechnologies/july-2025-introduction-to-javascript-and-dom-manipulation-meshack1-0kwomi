@@ -1,0 +1,19 @@
+*{
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px; 
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+  margin: 5px;
+  padding: 10px 15px;
+  border: none;
+  background: teal;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
